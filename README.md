@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Haswanthssch/leetcode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Haswanthssch/leetcode/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Haswanthssch/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/Haswanthssch/leetcode/tree/master/0189-rotate-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Haswanthssch/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Binary Search
 |  |
@@ -44,4 +46,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Haswanthssch/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/Haswanthssch/leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
