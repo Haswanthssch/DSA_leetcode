@@ -5,9 +5,9 @@ class Solution {
         ){
             Set<Character> set = new HashSet<>();
             for(int i = left; i<right; i++)
-                set.add(s.charAt(i));
+            set.add(s.charAt(i));
             if(set.size() == 3)
-                c++;
+            c++;
             left++;
             right++;
         }
