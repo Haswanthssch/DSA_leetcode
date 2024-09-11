@@ -65,4 +65,8 @@ I will upload all the leetcode solutions i solved on daily basis in this reposit
 |  |
 | ------- |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Haswanthssch/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/Haswanthssch/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
