@@ -1,4 +1,4 @@
-# leetcode
+# DSA leetcode
 I will upload all the leetcode solutions i solved on daily basis in this repository
 
 <!---LeetCode Topics Start-->
