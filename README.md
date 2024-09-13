@@ -8,6 +8,7 @@ I will upload all the leetcode solutions i solved on daily basis in this reposit
 | ------- |
 | [0070-climbing-stairs](https://github.com/Haswanthssch/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Haswanthssch/leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Haswanthssch/leetcode/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -21,6 +22,7 @@ I will upload all the leetcode solutions i solved on daily basis in this reposit
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Haswanthssch/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Haswanthssch/leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Haswanthssch/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Haswanthssch/leetcode/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Haswanthssch/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Haswanthssch/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
@@ -30,6 +32,7 @@ I will upload all the leetcode solutions i solved on daily basis in this reposit
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Haswanthssch/leetcode/tree/master/0268-missing-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Haswanthssch/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
@@ -45,6 +48,7 @@ I will upload all the leetcode solutions i solved on daily basis in this reposit
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Haswanthssch/leetcode/tree/master/0268-missing-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Haswanthssch/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
@@ -60,6 +64,7 @@ I will upload all the leetcode solutions i solved on daily basis in this reposit
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Haswanthssch/leetcode/tree/master/0268-missing-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Haswanthssch/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Haswanthssch/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## String
@@ -76,6 +81,7 @@ I will upload all the leetcode solutions i solved on daily basis in this reposit
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Haswanthssch/leetcode/tree/master/0268-missing-number) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Haswanthssch/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Haswanthssch/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Haswanthssch/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
