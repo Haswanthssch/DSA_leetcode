@@ -29,6 +29,7 @@ I will upload all the leetcode solutions i solved on daily basis in this reposit
 | [1786-count-the-number-of-consistent-strings](https://github.com/Haswanthssch/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Haswanthssch/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Haswanthssch/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Haswanthssch/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Binary Search
 |  |
 | ------- |
@@ -85,4 +86,9 @@ I will upload all the leetcode solutions i solved on daily basis in this reposit
 | [1435-xor-queries-of-a-subarray](https://github.com/Haswanthssch/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Haswanthssch/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Haswanthssch/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Haswanthssch/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Haswanthssch/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
