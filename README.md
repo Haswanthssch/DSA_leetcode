@@ -22,6 +22,7 @@ I will upload all the leetcode solutions i solved on daily basis in this reposit
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Haswanthssch/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0136-single-number](https://github.com/Haswanthssch/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Haswanthssch/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Haswanthssch/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Haswanthssch/leetcode/tree/master/0283-move-zeroes) |
@@ -86,6 +87,7 @@ I will upload all the leetcode solutions i solved on daily basis in this reposit
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Haswanthssch/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Haswanthssch/leetcode/tree/master/0268-missing-number) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Haswanthssch/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Haswanthssch/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
