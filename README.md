@@ -24,6 +24,7 @@ I will upload all the leetcode solutions i solved on daily basis in this reposit
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Haswanthssch/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Haswanthssch/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Haswanthssch/leetcode/tree/master/0136-single-number) |
+| [0179-largest-number](https://github.com/Haswanthssch/leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Haswanthssch/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Haswanthssch/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Haswanthssch/leetcode/tree/master/0283-move-zeroes) |
@@ -42,6 +43,7 @@ I will upload all the leetcode solutions i solved on daily basis in this reposit
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Haswanthssch/leetcode/tree/master/0179-largest-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Haswanthssch/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
@@ -54,6 +56,7 @@ I will upload all the leetcode solutions i solved on daily basis in this reposit
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Haswanthssch/leetcode/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/Haswanthssch/leetcode/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/Haswanthssch/leetcode/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/Haswanthssch/leetcode/tree/master/0539-minimum-time-difference) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Haswanthssch/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -79,6 +82,7 @@ I will upload all the leetcode solutions i solved on daily basis in this reposit
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Haswanthssch/leetcode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/Haswanthssch/leetcode/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Haswanthssch/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Haswanthssch/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
