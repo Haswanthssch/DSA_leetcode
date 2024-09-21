@@ -107,4 +107,12 @@ I will upload all the leetcode solutions i solved on daily basis in this reposit
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Haswanthssch/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Haswanthssch/leetcode/tree/master/0386-lexicographical-numbers) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Haswanthssch/leetcode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
