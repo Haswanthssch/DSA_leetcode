@@ -30,6 +30,7 @@ I will upload all the leetcode solutions i solved on daily basis in this reposit
 | [0283-move-zeroes](https://github.com/Haswanthssch/leetcode/tree/master/0283-move-zeroes) |
 | [0539-minimum-time-difference](https://github.com/Haswanthssch/leetcode/tree/master/0539-minimum-time-difference) |
 | [0643-maximum-average-subarray-i](https://github.com/Haswanthssch/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1256-rank-transform-of-an-array](https://github.com/Haswanthssch/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Haswanthssch/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Haswanthssch/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Haswanthssch/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -60,6 +61,7 @@ I will upload all the leetcode solutions i solved on daily basis in this reposit
 | [0179-largest-number](https://github.com/Haswanthssch/leetcode/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/Haswanthssch/leetcode/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/Haswanthssch/leetcode/tree/master/0539-minimum-time-difference) |
+| [1256-rank-transform-of-an-array](https://github.com/Haswanthssch/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Haswanthssch/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
@@ -78,6 +80,7 @@ I will upload all the leetcode solutions i solved on daily basis in this reposit
 | ------- |
 | [0268-missing-number](https://github.com/Haswanthssch/leetcode/tree/master/0268-missing-number) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Haswanthssch/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1256-rank-transform-of-an-array](https://github.com/Haswanthssch/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Haswanthssch/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Haswanthssch/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Haswanthssch/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
