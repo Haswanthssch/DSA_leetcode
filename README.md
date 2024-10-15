@@ -47,6 +47,7 @@ I will upload all the leetcode solutions i solved on daily basis in this reposit
 | ------- |
 | [0179-largest-number](https://github.com/Haswanthssch/leetcode/tree/master/0179-largest-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Haswanthssch/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3195-separate-black-and-white-balls](https://github.com/Haswanthssch/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Sliding Window
 |  |
 | ------- |
@@ -75,6 +76,7 @@ I will upload all the leetcode solutions i solved on daily basis in this reposit
 | [0088-merge-sorted-array](https://github.com/Haswanthssch/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Haswanthssch/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Haswanthssch/leetcode/tree/master/0283-move-zeroes) |
+| [3195-separate-black-and-white-balls](https://github.com/Haswanthssch/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,6 +95,7 @@ I will upload all the leetcode solutions i solved on daily basis in this reposit
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Haswanthssch/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Haswanthssch/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Haswanthssch/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [3195-separate-black-and-white-balls](https://github.com/Haswanthssch/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Counting
 |  |
 | ------- |
