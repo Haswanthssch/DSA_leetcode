@@ -10,6 +10,7 @@ I will upload all the leetcode solutions i solved on daily basis in this reposit
 | [0189-rotate-array](https://github.com/Haswanthssch/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Haswanthssch/leetcode/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/Haswanthssch/leetcode/tree/master/0539-minimum-time-difference) |
+| [0670-maximum-swap](https://github.com/Haswanthssch/leetcode/tree/master/0670-maximum-swap) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -46,6 +47,7 @@ I will upload all the leetcode solutions i solved on daily basis in this reposit
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Haswanthssch/leetcode/tree/master/0179-largest-number) |
+| [0670-maximum-swap](https://github.com/Haswanthssch/leetcode/tree/master/0670-maximum-swap) |
 | [1304-longest-happy-string](https://github.com/Haswanthssch/leetcode/tree/master/1304-longest-happy-string) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Haswanthssch/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3195-separate-black-and-white-balls](https://github.com/Haswanthssch/leetcode/tree/master/3195-separate-black-and-white-balls) |
