@@ -23,6 +23,7 @@ I will upload all the leetcode solutions i solved on daily basis in this reposit
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Haswanthssch/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0078-subsets](https://github.com/Haswanthssch/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Haswanthssch/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Haswanthssch/leetcode/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/Haswanthssch/leetcode/tree/master/0179-largest-number) |
@@ -111,6 +112,7 @@ I will upload all the leetcode solutions i solved on daily basis in this reposit
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Haswanthssch/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Haswanthssch/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Haswanthssch/leetcode/tree/master/0268-missing-number) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Haswanthssch/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
@@ -137,6 +139,7 @@ I will upload all the leetcode solutions i solved on daily basis in this reposit
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Haswanthssch/leetcode/tree/master/0078-subsets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Haswanthssch/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
 |  |
