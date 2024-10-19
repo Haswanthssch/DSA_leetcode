@@ -99,6 +99,7 @@ I will upload all the leetcode solutions i solved on daily basis in this reposit
 | [0920-uncommon-words-from-two-sentences](https://github.com/Haswanthssch/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1304-longest-happy-string](https://github.com/Haswanthssch/leetcode/tree/master/1304-longest-happy-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Haswanthssch/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Haswanthssch/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Haswanthssch/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Haswanthssch/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3195-separate-black-and-white-balls](https://github.com/Haswanthssch/leetcode/tree/master/3195-separate-black-and-white-balls) |
@@ -145,4 +146,12 @@ I will upload all the leetcode solutions i solved on daily basis in this reposit
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Haswanthssch/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Recursion
+|  |
+| ------- |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Haswanthssch/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+## Simulation
+|  |
+| ------- |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Haswanthssch/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
