@@ -43,6 +43,7 @@ I will upload all the leetcode solutions i solved on daily basis in this reposit
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Haswanthssch/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Haswanthssch/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Haswanthssch/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Haswanthssch/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,6 +66,7 @@ I will upload all the leetcode solutions i solved on daily basis in this reposit
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Haswanthssch/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Haswanthssch/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Haswanthssch/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Haswanthssch/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Sorting
 |  |
 | ------- |
