@@ -33,6 +33,7 @@ I will upload all the leetcode solutions i solved on daily basis in this reposit
 | [0539-minimum-time-difference](https://github.com/Haswanthssch/leetcode/tree/master/0539-minimum-time-difference) |
 | [0643-maximum-average-subarray-i](https://github.com/Haswanthssch/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1256-rank-transform-of-an-array](https://github.com/Haswanthssch/leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Haswanthssch/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Haswanthssch/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Haswanthssch/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Haswanthssch/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -48,6 +49,7 @@ I will upload all the leetcode solutions i solved on daily basis in this reposit
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Haswanthssch/leetcode/tree/master/0268-missing-number) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Haswanthssch/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Haswanthssch/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Haswanthssch/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Haswanthssch/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
