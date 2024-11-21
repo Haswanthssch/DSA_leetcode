@@ -68,6 +68,7 @@ I will upload all the leetcode solutions i solved on daily basis in this reposit
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Haswanthssch/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Haswanthssch/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Haswanthssch/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/Haswanthssch/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Haswanthssch/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Sorting
 |  |
@@ -102,6 +103,7 @@ I will upload all the leetcode solutions i solved on daily basis in this reposit
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Haswanthssch/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Haswanthssch/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Haswanthssch/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/Haswanthssch/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## String
 |  |
 | ------- |
@@ -113,6 +115,7 @@ I will upload all the leetcode solutions i solved on daily basis in this reposit
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Haswanthssch/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Haswanthssch/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Haswanthssch/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/Haswanthssch/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3195-separate-black-and-white-balls](https://github.com/Haswanthssch/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Counting
 |  |
