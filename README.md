@@ -95,6 +95,7 @@ I will upload all the leetcode solutions i solved on daily basis in this reposit
 | [0088-merge-sorted-array](https://github.com/Haswanthssch/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Haswanthssch/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Haswanthssch/leetcode/tree/master/0283-move-zeroes) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/Haswanthssch/leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3195-separate-black-and-white-balls](https://github.com/Haswanthssch/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Hash Table
 |  |
@@ -117,6 +118,7 @@ I will upload all the leetcode solutions i solved on daily basis in this reposit
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Haswanthssch/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Haswanthssch/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Haswanthssch/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/Haswanthssch/leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Haswanthssch/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3195-separate-black-and-white-balls](https://github.com/Haswanthssch/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Counting
