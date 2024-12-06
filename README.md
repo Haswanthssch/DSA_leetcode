@@ -44,6 +44,7 @@ I will upload all the leetcode solutions i solved on daily basis in this reposit
 | [2179-most-beautiful-item-for-each-query](https://github.com/Haswanthssch/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Haswanthssch/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Haswanthssch/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Haswanthssch/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Haswanthssch/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Haswanthssch/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Binary Search
@@ -54,6 +55,7 @@ I will upload all the leetcode solutions i solved on daily basis in this reposit
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Haswanthssch/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Haswanthssch/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Haswanthssch/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Haswanthssch/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Greedy
 |  |
 | ------- |
@@ -62,6 +64,7 @@ I will upload all the leetcode solutions i solved on daily basis in this reposit
 | [1304-longest-happy-string](https://github.com/Haswanthssch/leetcode/tree/master/1304-longest-happy-string) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Haswanthssch/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2089-maximum-matrix-sum](https://github.com/Haswanthssch/leetcode/tree/master/2089-maximum-matrix-sum) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Haswanthssch/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3195-separate-black-and-white-balls](https://github.com/Haswanthssch/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Sliding Window
 |  |
@@ -82,6 +85,7 @@ I will upload all the leetcode solutions i solved on daily basis in this reposit
 | [1256-rank-transform-of-an-array](https://github.com/Haswanthssch/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Haswanthssch/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Haswanthssch/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Haswanthssch/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Haswanthssch/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Prefix Sum
 |  |
@@ -107,6 +111,7 @@ I will upload all the leetcode solutions i solved on daily basis in this reposit
 | [1786-count-the-number-of-consistent-strings](https://github.com/Haswanthssch/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Haswanthssch/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Haswanthssch/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Haswanthssch/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## String
 |  |
 | ------- |
