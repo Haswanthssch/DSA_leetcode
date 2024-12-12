@@ -45,6 +45,7 @@ I will upload all the leetcode solutions i solved on daily basis in this reposit
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Haswanthssch/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Haswanthssch/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Haswanthssch/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Haswanthssch/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Haswanthssch/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Haswanthssch/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Binary Search
@@ -161,6 +162,7 @@ I will upload all the leetcode solutions i solved on daily basis in this reposit
 |  |
 | ------- |
 | [1304-longest-happy-string](https://github.com/Haswanthssch/leetcode/tree/master/1304-longest-happy-string) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Haswanthssch/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Backtracking
 |  |
 | ------- |
@@ -178,6 +180,7 @@ I will upload all the leetcode solutions i solved on daily basis in this reposit
 |  |
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Haswanthssch/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Haswanthssch/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Matrix
 |  |
 | ------- |
